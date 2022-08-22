@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+        margin: 0px;
+        padding:0px;
+
+
+}
+#gallery{
+    width: 25%;
+    height: 300px;
+
+}
+body{
+    font-family: sans-serif;
+    background-color: #f5f6f7;
+}
